@@ -51,7 +51,10 @@
 - Настройте фронтенд HAProxy так, чтобы в зависимости от запрашиваемого сайта example1.local или example2.local запросы перенаправлялись на разные бэкенды HAProxy
 - На проверку направьте конфигурационный файл HAProxy, скриншоты, демонстрирующие запросы к разным фронтендам и ответам от разных бэкендов.
 
+[Посмотреть файл haproxy4.cfg](./haproxy4.cfg)
 
+![alt text](https://github.com/fin4457/Cluster_balance/blob/main/img/haproxy4.jpg)
+![alt text](https://github.com/fin4457/Cluster_balance/blob/main/img/haproxy4_stat.jpg)
 ------
 
 ### Правила приема работы
