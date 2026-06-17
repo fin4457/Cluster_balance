@@ -12,7 +12,7 @@
 - Установите и настройте HAProxy, воспользуйтесь материалами к лекции по [ссылке](2/)
 - Настройте балансировку Round-robin на 4 уровне.
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
-
+[Посмотреть файл haproxy.cfg](./haproxy.cfg)
 ![alt text](https://github.com/fin4457/Cluster_balance/blob/main/img/haproxy1.jpg)
 ![alt text](https://github.com/fin4457/Cluster_balance/blob/main/img/haproxy1_stat.jpg)
 
